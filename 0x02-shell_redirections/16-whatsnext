@@ -1,0 +1,3 @@
+vi 16-whatsnext
+#!/bin/bash
+grep -iA 3 "root" /etc/passwd
